@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ferna\\.nuget\\packages\\": {}
+    "C:\\Users\\MS12454\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Escritorio\\sopa-de-mocaco_POO012021\\Example01\\Example01.csproj",
+      "projectUniqueName": "C:\\Users\\MS12454\\Desktop\\sopa-de-mocaco_POO012021\\Example01\\Example01.csproj",
       "projectName": "Example01",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Escritorio\\sopa-de-mocaco_POO012021\\Example01\\Example01.csproj",
-      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Escritorio\\sopa-de-mocaco_POO012021\\Example01\\obj\\",
+      "projectPath": "C:\\Users\\MS12454\\Desktop\\sopa-de-mocaco_POO012021\\Example01\\Example01.csproj",
+      "packagesPath": "C:\\Users\\MS12454\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MS12454\\Desktop\\sopa-de-mocaco_POO012021\\Example01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MS12454\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
